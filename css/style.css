@@ -1,0 +1,25 @@
+body{
+    background: #f0f2f5; 
+    margin: 0;
+    padding: 0;
+}
+.container{
+    background: lightblue;
+    width: 400px;
+    height: 100vh;
+    position: relative;
+    
+    right: 35%;
+    padding: 10px;
+
+    
+}
+.container2{
+    background: white;
+    border-radius: 12px;
+    height: 60vh;
+}
+img{
+    margin-left: 26%;
+    margin-right: 50%;
+}
